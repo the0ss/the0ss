@@ -32,7 +32,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,go,spring,spark,react,angular,mysql,mongodb,postgres,linux,docker,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,go,spring,react,angular,mysql,mongodb,postgres,linux,docker,redis)](https://skillicons.dev)
 
 </div>
   
